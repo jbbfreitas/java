@@ -1,6 +1,5 @@
 package br.com.abim.main;
 
-import br.com.abim.interfaces.Calculavel;
 import br.com.abim.pojo.Calculadora;
 
 public class Main {
